@@ -23,7 +23,7 @@
       },
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyBBBcC7nb_9zSAjhYJf4Q2-BCZGVO8p26Y"
+          "apiKey": ""
         }
       },
       "package": "com.rct.doctorpro",
